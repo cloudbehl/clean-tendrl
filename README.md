@@ -1,4 +1,4 @@
-# clean-tendrl
+# clean-tendrl [Under Testing]
 
 If your tendrl import cluster is failed and you are not able to import your cluster again then fix the problem mentioned by tendrl and clean the system using this script.
 
